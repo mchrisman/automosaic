@@ -1,0 +1,25 @@
+<invErsion>1.0</invErsion>
+
+<model version="1.0">
+	<groupId></groupId>
+	<artifact>
+		<packaging></packaging>
+		<source></source>
+		<version>1.0</version>
+	</artifact>
+
+	<description>Sample Project with Maven</description>
+	<parent>
+		<groupId></groupId>
+	</parent>
+	
+	<readme-data>
+		<default-goup>
+			<default></default>
+		</default-group>
+	</readme-data>
+	<read>
+			
+		
+	</read>
+</model>
